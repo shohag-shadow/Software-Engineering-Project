@@ -1,14 +1,18 @@
 **Project title :** University Management System Automating Academic Activities with the Incremental SDLC Model
-**Submitted to :** 
-Pankaj Bhowmik
-Lecturer
-Department of Computer Science and Engineering 
-Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200, Bangladesh.
 
-**Submitted by :**
-Md Shohag Showdagor
-Student id: 2102041
+**Submitted to :** 
+Pankaj Bhowmik  
+Lecturer  
+Department of Computer Science and Engineering  
+Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200, Bangladesh.  
+
+**Submitted by :**  
+Md Shohag Showdagor  
+Student id: 2102041  
 Level-3,Semester-I
+
+
+
 ---
 
 # **University Management System**  
@@ -19,13 +23,13 @@ Level-3,Semester-I
 ## **Project Overview**  
 The **University Management System (UMS)** is designed to automate and streamline core academic activities in universities. These activities include managing assignments, generating class schedules, assigning teachers to courses, and publishing results. The system aims to improve efficiency, reduce manual work, and enhance user experience for students, faculty, and administrators.  
 
-The project follows the **Incremental Model** of Software Development Life Cycle (SDLC) to deliver functionalities in a phased and systematic manner, ensuring flexibility and adaptability throughout development.
+The project follows the **Incremental Model** of the Software Development Life Cycle (SDLC) to deliver functionalities in a phased and systematic manner, ensuring flexibility and adaptability throughout development.
 
 ---
 
 ## **SDLC Model: Incremental Model**
 
-![An image showing important parts of incremental model.](https://miro.medium.com/v2/resize:fit:1400/1*V76HwDEYIFmoBqYnwTxPSA.png)
+![An image showing important parts of incremental model.](https://miro.medium.com/v2/resize:fit:500/1*V76HwDEYIFmoBqYnwTxPSA.png)
 
 ### **Why the Incremental Model?**  
 The Incremental Model is ideal for this project as it:  
