@@ -1,6 +1,6 @@
 **Project title :** University Management System Automating Academic Activities with the Incremental SDLC Model
 
-**Submitted to :** 
+**Submitted to :**  
 Pankaj Bhowmik  
 Lecturer  
 Department of Computer Science and Engineering  
