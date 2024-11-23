@@ -31,7 +31,7 @@ The project follows the **Incremental Model** of the Software Development Life C
 
 ## **SDLC Model: Incremental Model**
 
-![An image showing important parts of incremental model.](https://miro.medium.com/v2/resize:fit:500/1*V76HwDEYIFmoBqYnwTxPSA.png)
+![An image showing important parts of incremental model.](https://miro.medium.com/v2/resize:fit:800/1*V76HwDEYIFmoBqYnwTxPSA.png)
 
 ### **Why the Incremental Model?**  
 The Incremental Model is ideal for this project as it:  
