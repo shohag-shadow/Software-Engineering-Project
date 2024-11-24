@@ -14,99 +14,88 @@ Department of Computer Science and Engineering
 Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200, Bangladesh.  
 
 ---
+# **University Management System** 
+### Automating Academic Activities with the Incremental SDLC Model
 
-# **University Management System**  
-### Making Academic Activities Easier with the Incremental SDLC Model  
+--- 
+
+## **About the Project** 
+This is software that assists universities in carrying out their academic activities. The University Management System will automate the assignment submission, class timetable management, teacher course allocation, result publication, etc.
+
+This project uses Incremental Model for the software development life cycle. That means software is developed step by step and features added along with improvements based on users' feedback.
 
 ---
+**Why the Incremental Model**
 
-## **About the Project**  
-The **University Management System (UMS)** is software that helps universities with their academic work. It will automate tasks like submitting assignments, creating class timetables, assigning teachers to courses, and publishing results.  
-
-The project uses the **Incremental Model** of the Software Development Life Cycle (SDLC). This means the software will be built step by step, adding features gradually while improving it based on user feedback.
-
----
-
-## **Why Use the Incremental Model?**  
-The Incremental Model is a good choice for this project because:
-
+The development of this project suits the Incremental Model in view of the fact that:
 ![An image showing important parts of incremental model.](https://miro.medium.com/v2/resize:fit:600/1*V76HwDEYIFmoBqYnwTxPSA.png)
 
-- Important features are delivered first, so users can start using them early.  
-- Feedback from students, teachers, and staff helps improve the system.  
-- It reduces risks because the software is built and tested in small parts.  
-- New features can be added easily in the future.  
+Important features are delivered first so that users can start using them early.
+Feedback from students, teachers, and staff improves the system.
+It reduces risks because software is built and tested in small parts.
+A new feature can be added with ease in the near future.  
 
 ---
 
 ## **Main Features**  
 1. **Assignment Management**:  
-   - Students can upload their assignments online.  
-   - Teachers can grade the assignments and give feedback.  
+   - Students can upload assignments online.  
+   - Grading of assignments by teachers can be uploaded with their feedback.  
 
 2. **Automatic Class Scheduling**:  
-   - Creates class timetables automatically.  
-   - Avoids clashes in class times, rooms, or teacher schedules.  
+   - Automatic generation of class timetables.
+   - Avoids conflicts in class timings, rooms, or teacher schedules.  
 
-3. **Teacher-Course Assignment**:  
-   - Deans can assign teachers to different courses.  
-   - Keeps track of how much work each teacher has.  
-
-4. **Result Management**:  
-   - Teachers can upload student grades.  
-   - Students can see their grades in a secure portal.  
+3. **Teacher Course Assignment**
+  - Deans can assign a teacher to various courses.
+  - The workload of each teacher can be tracked by this module.
+  
+4. **Result Management**
+  - Teachers can upload grades for the students.
+   - Grades are visible to students through a secure portal.  
 
 ---
 
-## **Steps to Build the System**  
+## Procedure to Create the System 
 
-### **Step 1: Collect Requirements**  
-- Talk to students, teachers, and university staff to understand their needs.  
-- Decide which features are most important and start with them.  
+### Step 1: Get Requirement 
+- Acquire the requirements from students, teachers, and university staff as to what all features they need.
+- Find out the most essential features and begin the development with those foremost. 
 
-### **Step 2: Design the System**  
-- Plan how the software will work and how each part will connect.  
-- Make sure the system can grow in the future by adding new features.  
+### Step 2: Design the System 
+- Find out how the software system is going to work in adding related activity between different modules.
+- It should be expandable, so that in the future, more features can be integrated into the system.  
 
-### **Step 3: Build the System in Parts**  
+### **Step 3: Part-by-Part Development of the System**  
 
 #### **Part 1: Assignment Management**  
-   - Students can submit assignments online.  
-   - Teachers can grade and give feedback.  
+ - It enables students to submit assignments online.  
+ - The Student will be able to submit an assignment; the teacher will be able to value those sites.  
 
-#### **Part 2: Class Routine Generator**  
-   - Creates conflict-free timetables.  
-   - Shows schedules to students and teachers.  
+#### **Part 2: Class Routine Generator**
+   - Generates conflict-free agendas.  
+   - Shows agenda to student-teachers.  
 
 #### **Part 3: Teacher-Course Assignment**  
-   - Helps deans assign teachers to courses.  
-   - Makes workload management easier.  
+   - Assists deans in assigning courses to teachers.  
+   - Thus, it initiated a way of managing the workload.  
 
 #### **Part 4: Result Management**  
-   - Allows teachers to upload grades.  
-   - Students can view their grades securely.  
+   - Involves uploading grades by teachers.
+   - Grades can be viewed privately by students. 
 
-### **Step 4: Test the System**  
-- Test every part to make sure it works properly.  
-- Fix any problems and improve the system based on user feedback.  
+### **Step 4: Test the System** 
+- The responsiveness of each part should be trialed.
+- After debugging, enhancing the system and then user experience.
 
-### **Step 5: Deploy and Maintain**  
-- Release each part of the system when it is finished.  
-- Update the system regularly to fix bugs and add improvements.  
-
----
-
-## **Benefits of the Incremental Model**  
-1. **Quick Results**: Users can use important features early.  
-2. **Better Feedback**: Users help make the system better.  
-3. **Less Risk**: Building in small steps makes it easier to find and fix problems.  
-4. **Future Growth**: New features can be added without breaking the system.  
+### **Step 5: Deployment and Maintenance** 
+- Deploying each module of the system as it is ready.
+-The system should undergo regular maintenance in the form of bug fixes and improvements being uploaded.  
 
 ---
 
-## **Future Features**  
-- A system for tracking attendance.  
-- Dashboards to analyze student performance.  
-- Notifications for updates and announcements.  
-
----
+## **Future Attributes-**
+- Attendance-measuring system.
+- Analytical dashboards on the performance of students.
+- Notification updates and announcements.
+- 
