@@ -59,38 +59,38 @@ A new feature can be added with ease in the near future.
 ## Procedure to Create the System 
 
 ### Step 1: Get Requirement 
-- Acquire the requirements from students, teachers, and university staff as to what all features they need.
-- Find out the most essential features and begin the development with those foremost. 
+   - Acquire the requirements from students, teachers, and university staff as to what all features they need.
+   - Find out the most essential features and begin the development with those foremost. 
 
 ### Step 2: Design the System 
-- Find out how the software system is going to work in adding related activity between different modules.
-- It should be expandable, so that in the future, more features can be integrated into the system.  
+   - Find out how the software system is going to work in adding related activity between different modules.
+   - It should be expandable, so that in the future, more features can be integrated into the system.  
 
 ### **Step 3: Part-by-Part Development of the System**  
 
-#### **Part 1: Assignment Management**  
- - It enables students to submit assignments online.  
- - The Student will be able to submit an assignment; the teacher will be able to value those sites.  
+   #### **Part 1: Assignment Management**  
+    - It enables students to submit assignments online.  
+    - The Student will be able to submit an assignment; the teacher will be able to value those sites.  
 
-#### **Part 2: Class Routine Generator**
-   - Generates conflict-free agendas.  
-   - Shows agenda to student-teachers.  
+   #### **Part 2: Class Routine Generator**
+      - Generates conflict-free agendas.  
+      - Shows agenda to student-teachers.  
 
-#### **Part 3: Teacher-Course Assignment**  
-   - Assists deans in assigning courses to teachers.  
-   - Thus, it initiated a way of managing the workload.  
+   #### **Part 3: Teacher-Course Assignment**  
+      - Assists deans in assigning courses to teachers.  
+      - Thus, it initiated a way of managing the workload.  
 
-#### **Part 4: Result Management**  
-   - Involves uploading grades by teachers.
-   - Grades can be viewed privately by students. 
+   #### **Part 4: Result Management**  
+      - Involves uploading grades by teachers.
+      - Grades can be viewed privately by students. 
 
 ### **Step 4: Test the System** 
-- The responsiveness of each part should be trialed.
-- After debugging, enhancing the system and then user experience.
+   - The responsiveness of each part should be trialed.
+   - After debugging, enhancing the system and then user experience.
 
 ### **Step 5: Deployment and Maintenance** 
-- Deploying each module of the system as it is ready.
--The system should undergo regular maintenance in the form of bug fixes and improvements being uploaded.  
+   - Deploying each module of the system as it is ready.
+   -The system should undergo regular maintenance in the form of bug fixes and improvements being uploaded.  
 
 ---
 
@@ -98,4 +98,3 @@ A new feature can be added with ease in the near future.
 - Attendance-measuring system.
 - Analytical dashboards on the performance of students.
 - Notification updates and announcements.
-- 
