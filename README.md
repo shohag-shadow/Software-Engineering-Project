@@ -28,6 +28,7 @@ This project uses Incremental Model for the software development life cycle. Tha
 **Why the Incremental Model**
 
 The development of this project suits the Incremental Model in view of the fact that:
+
 ![An image showing important parts of incremental model.](https://miro.medium.com/v2/resize:fit:600/1*V76HwDEYIFmoBqYnwTxPSA.png)
 
 Important features are delivered first so that users can start using them early.
