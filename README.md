@@ -90,7 +90,7 @@ A new feature can be added with ease in the near future.
 
 ### **Step 5: Deployment and Maintenance** 
    - Deploying each module of the system as it is ready.
-   -The system should undergo regular maintenance in the form of bug fixes and improvements being uploaded.  
+   - The system should undergo regular maintenance in the form of bug fixes and improvements being uploaded.  
 
 ---
 
