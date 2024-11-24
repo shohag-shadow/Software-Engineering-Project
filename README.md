@@ -47,11 +47,11 @@ A new feature can be added with ease in the near future.
    - Avoids conflicts in class timings, rooms, or teacher schedules.  
 
 3. **Teacher Course Assignment**
-  - Deans can assign a teacher to various courses.
-  - The workload of each teacher can be tracked by this module.
+   - Deans can assign a teacher to various courses.
+   - The workload of each teacher can be tracked by this module.
   
 4. **Result Management**
-  - Teachers can upload grades for the students.
+   - Teachers can upload grades for the students.
    - Grades are visible to students through a secure portal.  
 
 ---
@@ -68,21 +68,21 @@ A new feature can be added with ease in the near future.
 
 ### **Step 3: Part-by-Part Development of the System**  
 
-   #### **Part 1: Assignment Management**  
-    - It enables students to submit assignments online.  
-    - The Student will be able to submit an assignment; the teacher will be able to value those sites.  
+ #### **Part 1: Assignment Management**  
+   - It enables students to submit assignments online.  
+   - The Student will be able to submit an assignment; the teacher will be able to value those sites.  
 
-   #### **Part 2: Class Routine Generator**
-      - Generates conflict-free agendas.  
-      - Shows agenda to student-teachers.  
+  #### **Part 2: Class Routine Generator**
+   - Generates conflict-free agendas.  
+   - Shows agenda to student-teachers.  
 
-   #### **Part 3: Teacher-Course Assignment**  
-      - Assists deans in assigning courses to teachers.  
-      - Thus, it initiated a way of managing the workload.  
+  #### **Part 3: Teacher-Course Assignment**  
+   - Assists deans in assigning courses to teachers.  
+   - Thus, it initiated a way of managing the workload.  
 
-   #### **Part 4: Result Management**  
-      - Involves uploading grades by teachers.
-      - Grades can be viewed privately by students. 
+  #### **Part 4: Result Management**  
+   - Involves uploading grades by teachers.
+   - Grades can be viewed privately by students. 
 
 ### **Step 4: Test the System** 
    - The responsiveness of each part should be trialed.
